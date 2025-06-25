@@ -12,12 +12,36 @@ const projects = [
     title: 'Ajay Digital Dreamworks',
     description: 'A service platform showcasing my freelance web, video, and branding work.',
     tech: ['WordPress', 'SEO', 'Design'],
-    link: '#'
+    link: 'https://ajaydigitaldreamwork.42web.io/'
   },
   {
     title: 'Shehri Lion – Movie Project',
     description: 'An intense 4-hour original script combining action, emotion, and international-level villains.',
     tech: ['Screenwriting', 'Concept Art', 'Direction'],
+    link: '#'
+  },
+  {
+    title: 'Netflix Clone - Frontend Design',
+    description: 'A movie streaming website. That provide various types of movies to watch online from anywhere.',
+    tech: ['HTML', 'CSS', 'JS'],
+    link: '#'
+  },
+  {
+    title: 'Ishq FM - Story reading APP',
+    description: 'An app that provide you various types of stories to read and lesten online from anywhere.',
+    tech: ['REACT NATIVE', 'FIREBASE'],
+    link: '#'
+  },
+  {
+    title: 'Crane Website - Cranetech Noida',
+    description: 'An industrial website of a sole propriter. The company offers cranes & lifts etc.',
+    tech: ['PHP', 'HTML', 'CSS', 'JS', 'Bootstrap'],
+    link: 'https://www.cranetechnoida.in/'
+  },
+  {
+    title: 'Steno typing Website - AshokaSteno with admin panel',
+    description: 'A website where you can improve your typing skill. Give test and buy some courses.',
+    tech: ['HTML', 'CSS', 'JS', 'PHP', 'Bootstrap', 'JQuery', 'MYSQL'],
     link: '#'
   }
 ]

@@ -25,14 +25,14 @@ const Footer = () => {
             <FaEnvelope />
           </a>
           {/* Optional GitHub */}
-          {/* <a
-            href="https://github.com/yourusername"
+          <a
+            href="https://github.com/ajaydigitaldreamworks"
             target="_blank"
             rel="noreferrer"
             className="hover:text-gray-400 transition"
           >
             <FaGithub />
-          </a> */}
+          </a>
         </div>
       </div>
     </footer>
